@@ -25,9 +25,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I3",
-        "processor_model": "N305",
-        "core_count": 8,
-        "processor_speed": "Hasta 3,8 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3, 8 núcleos y 8 subprocesos."
+        "model": "N305",
+        "cores": 8,
+        "speed": "Hasta 3,8 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3, 8 núcleos y 8 subprocesos."
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 8,
@@ -35,7 +35,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -51,9 +51,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "8640HS",
-        "core_count": 6,
-        "processor_speed": "(12T, 3.5 / 4.9GHz, 6MB L2 / 16MB L3)"
+        "model": "8640HS",
+        "cores": 6,
+        "speed": "(12T, 3.5 / 4.9GHz, 6MB L2 / 16MB L3)"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 24,
@@ -61,7 +61,7 @@
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -77,9 +77,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Intel Core Ultra 5 - 125H",
-        "core_count": 14,
-        "processor_speed": "Hasta 4.5 GHz con Intel® Turbo Boost Technology, 18 MB L3 caché, 14 núcleos, 18 hilos"
+        "model": "Intel Core Ultra 5 - 125H",
+        "cores": 14,
+        "speed": "Hasta 4.5 GHz con Intel® Turbo Boost Technology, 18 MB L3 caché, 14 núcleos, 18 hilos"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -87,7 +87,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -103,9 +103,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R7",
-        "processor_model": "AMD Ryzen 7 - 7730U",
-        "core_count": 8,
-        "processor_speed": "Velocidad de ráfaga máxima de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos y 16 subprocesos"
+        "model": "AMD Ryzen 7 - 7730U",
+        "cores": 8,
+        "speed": "Velocidad de ráfaga máxima de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos y 16 subprocesos"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -113,7 +113,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -129,9 +129,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "210H",
-        "core_count": 8,
-        "processor_speed": "2.2 GHz (12MB Cache, up to 4.8 GHz, 8 cores, 12 Threads)"
+        "model": "210H",
+        "cores": 8,
+        "speed": "2.2 GHz (12MB Cache, up to 4.8 GHz, 8 cores, 12 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -139,7 +139,7 @@
       "display": {
         "size": 16,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 3050",
+        "graphics": "GeForce® RTX 3050",
         "brand": "NVIDIA"
       }
     },
@@ -156,9 +156,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R7",
-        "processor_model": "AMD Ryzen™ 7 7730U Processor 2.0GHz (20MB Cache, up to 4.5 GHz, 8 cores, 16 Threads)",
-        "core_count": 8,
-        "processor_speed": "4.5GHz"
+        "model": "AMD Ryzen™ 7 7730U Processor 2.0GHz (20MB Cache, up to 4.5 GHz, 8 cores, 16 Threads)",
+        "cores": 8,
+        "speed": "4.5GHz"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -166,7 +166,7 @@
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -182,9 +182,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H, 8C",
-        "core_count": 8,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
+        "model": "13420H, 8C",
+        "cores": 8,
+        "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 16,
@@ -192,7 +192,7 @@
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -208,9 +208,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Ultra 5 125H",
-        "core_count": 14,
-        "processor_speed": "Hasta 4,5 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 14 núcleos, 18 subprocesos."
+        "model": "Ultra 5 125H",
+        "cores": 14,
+        "speed": "Hasta 4,5 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 14 núcleos, 18 subprocesos."
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 8,
@@ -218,7 +218,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -234,9 +234,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -244,7 +244,7 @@
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -260,9 +260,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R7",
-        "processor_model": "5825U, 8C",
-        "core_count": 8,
-        "processor_speed": "(8 núcleos/16 hilos, 2,0/4,5 GHz, 4 MB L2/16 MB L3)"
+        "model": "5825U, 8C",
+        "cores": 8,
+        "speed": "(8 núcleos/16 hilos, 2,0/4,5 GHz, 4 MB L2/16 MB L3)"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 16,
@@ -270,7 +270,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -286,9 +286,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "1335U",
-        "core_count": 10,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
+        "model": "1335U",
+        "cores": 10,
+        "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 8,
@@ -296,7 +296,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -312,9 +312,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I3",
-        "processor_model": "Intel Core i3 N305 Velocidad del Procesador 1.8 GHz",
-        "core_count": 8,
-        "processor_speed": "1.8 GHz (6MB Cache, up to 3.8 GHz, 8 cores, 8 Threads)"
+        "model": "Intel Core i3 N305 Velocidad del Procesador 1.8 GHz",
+        "cores": 8,
+        "speed": "1.8 GHz (6MB Cache, up to 3.8 GHz, 8 cores, 8 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 8,
@@ -322,7 +322,7 @@
       "display": {
         "size": 15.6,
         "resolution": "UMA",
-        "graphics_card": "Full HD"
+        "graphics": "Full HD"
       }
     },
     {
@@ -338,9 +338,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 8,
@@ -348,7 +348,7 @@
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -364,9 +364,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "12450H, 8C",
-        "core_count": 8,
-        "processor_speed": "(4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB"
+        "model": "12450H, 8C",
+        "cores": 8,
+        "speed": "(4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB"
       },
       "operating_system": ["Windows", "11 Home español"],
       "ram_memory": 8,
@@ -374,7 +374,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -390,9 +390,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "1334U",
-        "core_count": 10,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
+        "model": "1334U",
+        "cores": 10,
+        "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -400,7 +400,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -416,9 +416,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "1334U",
-        "core_count": 10,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos."
+        "model": "1334U",
+        "cores": 10,
+        "speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos."
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -426,7 +426,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -442,9 +442,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "AMD R5 7520U Procesador 2.8GHz",
-        "core_count": 4,
-        "processor_speed": "2.8GHz (6MB Cache, up to 4.3GHz, 4 cores, 8 Threads)"
+        "model": "AMD R5 7520U Procesador 2.8GHz",
+        "cores": 4,
+        "speed": "2.8GHz (6MB Cache, up to 4.3GHz, 4 cores, 8 Threads)"
       },
       "operating_system": [
         "Windows",
@@ -455,7 +455,7 @@
       "display": {
         "size": 15.6,
         "resolution": "UMA",
-        "graphics_card": "Full HD"
+        "graphics": "Full HD"
       }
     },
     {
@@ -471,9 +471,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 8,
@@ -481,7 +481,7 @@
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -497,9 +497,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "Desde 2.1 GHz Hasta 4.6 GHz con tecnología Turbo Boost"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "Desde 2.1 GHz Hasta 4.6 GHz con tecnología Turbo Boost"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 16,
@@ -507,7 +507,7 @@
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics_card": "GeForce® RTX 3050",
+        "graphics": "GeForce® RTX 3050",
         "brand": "NVIDIA"
       }
     },
@@ -524,9 +524,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "7520U",
-        "core_count": 4,
-        "processor_speed": "8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3"
+        "model": "7520U",
+        "cores": 4,
+        "speed": "8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3"
       },
       "operating_system": ["Windows", "11 home"],
       "ram_memory": 16,
@@ -534,7 +534,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -550,9 +550,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "7520",
-        "core_count": 4,
-        "processor_speed": "Hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos."
+        "model": "7520",
+        "cores": 4,
+        "speed": "Hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos."
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 8,
@@ -560,7 +560,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -576,9 +576,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R7",
-        "processor_model": "7435HS",
-        "core_count": 8,
-        "processor_speed": "(8C/16T, 3,1/4,5 GHz, 4 MB L2/16 MB L3)"
+        "model": "7435HS",
+        "cores": 8,
+        "speed": "(8C/16T, 3,1/4,5 GHz, 4 MB L2/16 MB L3)"
       },
       "operating_system": ["Windows", "11 home"],
       "ram_memory": 24,
@@ -586,7 +586,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4050",
+        "graphics": "GeForce® RTX 4050",
         "brand": "NVIDIA"
       }
     },
@@ -603,9 +603,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Intel Core i5 - 13420H",
-        "core_count": 8,
-        "processor_speed": "Processor 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
+        "model": "Intel Core i5 - 13420H",
+        "cores": 8,
+        "speed": "Processor 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -613,7 +613,7 @@
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -629,9 +629,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "7520U",
-        "core_count": 4,
-        "processor_speed": "Velocidad máxima de hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos"
+        "model": "7520U",
+        "cores": 4,
+        "speed": "Velocidad máxima de hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -639,7 +639,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -655,9 +655,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "12450HX",
-        "core_count": 8,
-        "processor_speed": "(4P + 4E) / 12T, P-core hasta 4,4 GHz, E-core hasta 3,1 GHz, 12 MB"
+        "model": "12450HX",
+        "cores": 8,
+        "speed": "(4P + 4E) / 12T, P-core hasta 4,4 GHz, E-core hasta 3,1 GHz, 12 MB"
       },
       "operating_system": ["Windows", "11 home"],
       "ram_memory": 24,
@@ -665,7 +665,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 3050",
+        "graphics": "GeForce® RTX 3050",
         "brand": "NVIDIA"
       }
     },
@@ -682,9 +682,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I3",
-        "processor_model": "Intel Core i3 1215U Velocidad del Procesador 1.2 GHz",
-        "core_count": 6,
-        "processor_speed": "1.2 GHz (10M Cache, up to 4.4 GHz, 6 cores)"
+        "model": "Intel Core i3 1215U Velocidad del Procesador 1.2 GHz",
+        "cores": 6,
+        "speed": "1.2 GHz (10M Cache, up to 4.4 GHz, 6 cores)"
       },
       "operating_system": [
         "Windows",
@@ -695,7 +695,7 @@
       "display": {
         "size": 15.6,
         "resolution": "UMA",
-        "graphics_card": "Full HD"
+        "graphics": "Full HD"
       }
     },
     {
@@ -711,9 +711,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H, 8C",
-        "core_count": 8,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
+        "model": "13420H, 8C",
+        "cores": 8,
+        "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 8,
@@ -721,7 +721,7 @@
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -737,9 +737,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Intel Core i5 - 13420H",
-        "core_count": 8,
-        "processor_speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 27 12 MB de caché L3, 8 núcleos y 12 subprocesos"
+        "model": "Intel Core i5 - 13420H",
+        "cores": 8,
+        "speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 27 12 MB de caché L3, 8 núcleos y 12 subprocesos"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -747,7 +747,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 3050",
+        "graphics": "GeForce® RTX 3050",
         "brand": "NVIDIA"
       }
     },
@@ -764,9 +764,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Raptor Lake i5-13420H",
-        "core_count": 12,
-        "processor_speed": "4.70 Ghz"
+        "model": "Raptor Lake i5-13420H",
+        "cores": 12,
+        "speed": "4.70 Ghz"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -774,7 +774,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4050",
+        "graphics": "GeForce® RTX 4050",
         "brand": "NVIDIA"
       }
     },
@@ -791,9 +791,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H, 8C",
-        "core_count": 8,
-        "processor_speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
+        "model": "13420H, 8C",
+        "cores": 8,
+        "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 24,
@@ -801,7 +801,7 @@
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -817,9 +817,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H, 8C",
-        "core_count": 8,
-        "processor_speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
+        "model": "13420H, 8C",
+        "cores": 8,
+        "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 32,
@@ -827,7 +827,7 @@
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -843,9 +843,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "R5 7520U",
-        "core_count": 4,
-        "processor_speed": "2.8 GHz"
+        "model": "R5 7520U",
+        "cores": 4,
+        "speed": "2.8 GHz"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 8,
@@ -853,7 +853,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -869,9 +869,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "12450HX, 8C",
-        "core_count": 8,
-        "processor_speed": "Hasta 4,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché, 8 núcleos y 12 subprocesos."
+        "model": "12450HX, 8C",
+        "cores": 8,
+        "speed": "Hasta 4,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché, 8 núcleos y 12 subprocesos."
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 16,
@@ -879,7 +879,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4050",
+        "graphics": "GeForce® RTX 4050",
         "brand": "NVIDIA"
       }
     },
@@ -896,9 +896,9 @@
       "processor": {
         "brand": "Apple",
         "family": "APPLE M2",
-        "processor_model": "Apple M2",
-        "core_count": 8,
-        "processor_speed": "3.49 GHz"
+        "model": "Apple M2",
+        "cores": 8,
+        "speed": "3.49 GHz"
       },
       "operating_system": ["MacOs", "MacOs Sequoia"],
       "ram_memory": 16,
@@ -906,7 +906,7 @@
       "display": {
         "size": 13.6,
         "resolution": "Retina",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -922,9 +922,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I3",
-        "processor_model": "N355",
-        "core_count": 8,
-        "processor_speed": "Desde 1.9 Ghz Hasta 3.9GHz con tecnología Turbo Boost"
+        "model": "N355",
+        "cores": 8,
+        "speed": "Desde 1.9 Ghz Hasta 3.9GHz con tecnología Turbo Boost"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 8,
@@ -932,7 +932,7 @@
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -948,9 +948,9 @@
       "processor": {
         "brand": "Apple",
         "family": "APPLE M4",
-        "processor_model": "Apple M4",
-        "core_count": 10,
-        "processor_speed": "4.3 GHz"
+        "model": "Apple M4",
+        "cores": 10,
+        "speed": "4.3 GHz"
       },
       "operating_system": ["MacOS", "MacOS Sequoia"],
       "ram_memory": 16,
@@ -958,7 +958,7 @@
       "display": {
         "size": 13,
         "resolution": "Retina",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -974,9 +974,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "7520U",
-        "core_count": 4,
-        "processor_speed": "8T, 2,8/4,3 GHz, 2 MB L2/4 MB L3"
+        "model": "7520U",
+        "cores": 4,
+        "speed": "8T, 2,8/4,3 GHz, 2 MB L2/4 MB L3"
       },
       "operating_system": ["Windows", "11 Home, español"],
       "ram_memory": 8,
@@ -984,7 +984,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1000,9 +1000,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R5",
-        "processor_model": "8645H",
-        "core_count": 6,
-        "processor_speed": "Hasta 5,0 GHz , 16 MB de caché L3, 06 núcleos y 12 subprocesos"
+        "model": "8645H",
+        "cores": 6,
+        "speed": "Hasta 5,0 GHz , 16 MB de caché L3, 06 núcleos y 12 subprocesos"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 8,
@@ -1010,7 +1010,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 3050",
+        "graphics": "GeForce® RTX 3050",
         "brand": "NVIDIA"
       }
     },
@@ -1027,9 +1027,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "125H",
-        "core_count": 14,
-        "processor_speed": "(4P + 8E + 2LPE) / 18T, Max Turbo up to 4.5GHz, 18MB"
+        "model": "125H",
+        "cores": 14,
+        "speed": "(4P + 8E + 2LPE) / 18T, Max Turbo up to 4.5GHz, 18MB"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 16,
@@ -1037,7 +1037,7 @@
       "display": {
         "size": 14,
         "resolution": "OLED",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1053,9 +1053,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "Hasta 4.6 GHz con tecnologia Turbo Boost"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "Hasta 4.6 GHz con tecnologia Turbo Boost"
       },
       "operating_system": ["Windows", "11 Home"],
       "ram_memory": 8,
@@ -1063,7 +1063,7 @@
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1079,9 +1079,9 @@
       "processor": {
         "brand": "Apple",
         "family": "APPLE M2",
-        "processor_model": "Apple M2",
-        "core_count": 8,
-        "processor_speed": "3.49 GHz"
+        "model": "Apple M2",
+        "cores": 8,
+        "speed": "3.49 GHz"
       },
       "operating_system": ["MacOs", "MacOs Sequoia"],
       "ram_memory": null,
@@ -1089,7 +1089,7 @@
       "display": {
         "size": 13.6,
         "resolution": "Retina",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1105,9 +1105,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R7",
-        "processor_model": "AMD Ryzen 7 - 7435HS",
-        "core_count": 8,
-        "processor_speed": "Processor 3.1GHz (20MB Caché, hasta 4.5 GHz, 8 Núcleos, 16 Hilos)"
+        "model": "AMD Ryzen 7 - 7435HS",
+        "cores": 8,
+        "speed": "Processor 3.1GHz (20MB Caché, hasta 4.5 GHz, 8 Núcleos, 16 Hilos)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 16,
@@ -1115,7 +1115,7 @@
       "display": {
         "size": 17.3,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4060",
+        "graphics": "GeForce® RTX 4060",
         "brand": "NVIDIA"
       }
     },
@@ -1132,9 +1132,9 @@
       "processor": {
         "brand": "Apple",
         "family": "APPLE M4",
-        "processor_model": "Apple M4",
-        "core_count": 10,
-        "processor_speed": "4.3 GHz"
+        "model": "Apple M4",
+        "cores": 10,
+        "speed": "4.3 GHz"
       },
       "operating_system": ["MacOS ", "MacOS Sequoia"],
       "ram_memory": 16,
@@ -1142,7 +1142,7 @@
       "display": {
         "size": 13,
         "resolution": "Retina",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1158,9 +1158,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "1335U",
-        "core_count": 10,
-        "processor_speed": "4.60 GHz"
+        "model": "1335U",
+        "cores": 10,
+        "speed": "4.60 GHz"
       },
       "operating_system": ["Windows", "11 Pro"],
       "ram_memory": 16,
@@ -1168,7 +1168,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1184,9 +1184,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I9",
-        "processor_model": "Intel Core Ultra 9 Ultra 9 Processor 185H 2.3 GHz",
-        "core_count": 16,
-        "processor_speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
+        "model": "Intel Core Ultra 9 Ultra 9 Processor 185H 2.3 GHz",
+        "cores": 16,
+        "speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Pro"],
       "ram_memory": 32,
@@ -1194,7 +1194,7 @@
       "display": {
         "size": 14,
         "resolution": "OLED",
-        "graphics_card": "UMA"
+        "graphics": "UMA"
       }
     },
     {
@@ -1210,9 +1210,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I9",
-        "processor_model": "Intel Core Ultra 9 Ultra 9 Processor 185H 2.3 GHz",
-        "core_count": 16,
-        "processor_speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
+        "model": "Intel Core Ultra 9 Ultra 9 Processor 185H 2.3 GHz",
+        "cores": 16,
+        "speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Pro"],
       "ram_memory": 32,
@@ -1220,7 +1220,7 @@
       "display": {
         "size": 16,
         "resolution": "WQXGA",
-        "graphics_card": "GeForce® RTX 4070",
+        "graphics": "GeForce® RTX 4070",
         "brand": "NVIDIA"
       }
     },
@@ -1237,9 +1237,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "13420H",
-        "core_count": 8,
-        "processor_speed": "4.60 GHz"
+        "model": "13420H",
+        "cores": 8,
+        "speed": "4.60 GHz"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -1247,7 +1247,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4050",
+        "graphics": "GeForce® RTX 4050",
         "brand": "NVIDIA"
       }
     },
@@ -1264,9 +1264,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I5",
-        "processor_model": "Raptor Lake i5-1334U",
-        "core_count": 10,
-        "processor_speed": "4.60 GHz"
+        "model": "Raptor Lake i5-1334U",
+        "cores": 10,
+        "speed": "4.60 GHz"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -1274,7 +1274,7 @@
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics_card": "Iris Xe Graphics"
+        "graphics": "Iris Xe Graphics"
       }
     },
     {
@@ -1290,9 +1290,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I7",
-        "processor_model": "Meteor Lake Ultra 7-155H",
-        "core_count": 16,
-        "processor_speed": "4.8 Ghz"
+        "model": "Meteor Lake Ultra 7-155H",
+        "cores": 16,
+        "speed": "4.8 Ghz"
       },
       "operating_system": ["Windows", "Windows 11"],
       "ram_memory": 16,
@@ -1300,7 +1300,7 @@
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics_card": "GeForce® RTX 4060",
+        "graphics": "GeForce® RTX 4060",
         "brand": "NVIDIA"
       }
     },
@@ -1317,9 +1317,9 @@
       "processor": {
         "brand": "AMD",
         "family": "AMD R9",
-        "processor_model": "AMD Ryzen AI9 HX 370 Velocidad del Procesador 2.0 GHz",
-        "core_count": 12,
-        "processor_speed": "2.0 GHz (36MB Cache, up to 5.1GHz, 12 cores, 24 Threads), AMD Ryzen™ AI up to 81 TOPs"
+        "model": "AMD Ryzen AI9 HX 370 Velocidad del Procesador 2.0 GHz",
+        "cores": 12,
+        "speed": "2.0 GHz (36MB Cache, up to 5.1GHz, 12 cores, 24 Threads), AMD Ryzen™ AI up to 81 TOPs"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 32,
@@ -1327,7 +1327,7 @@
       "display": {
         "size": 16,
         "resolution": "OLED",
-        "graphics_card": "Integrados"
+        "graphics": "Integrados"
       }
     },
     {
@@ -1343,9 +1343,9 @@
       "processor": {
         "brand": "Intel",
         "family": "Intel Core I9",
-        "processor_model": "275HX , Intel AI Boost NPU up to 13TOPS",
-        "core_count": 24,
-        "processor_speed": "2.7 GHz (36MB Cache, up to 5.4 GHz, 24 cores, 24 Threads)"
+        "model": "275HX , Intel AI Boost NPU up to 13TOPS",
+        "cores": 24,
+        "speed": "2.7 GHz (36MB Cache, up to 5.4 GHz, 24 cores, 24 Threads)"
       },
       "operating_system": ["Windows", "Windows 11 Home"],
       "ram_memory": 32,
@@ -1353,7 +1353,7 @@
       "display": {
         "size": 18,
         "resolution": "WQXGA",
-        "graphics_card": "GeForce® RTX 5070 Ti",
+        "graphics": "GeForce® RTX 5070 Ti",
         "brand": "NVIDIA"
       }
     }
