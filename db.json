@@ -1,11 +1,46 @@
 {
+  "carts": [
+    {
+      "id": "01989493-0def-7f41-ab40-20b04679fbb4",
+      "products": [
+        {
+          "id": "AA-AA-AA-AA",
+          "name": "HP Intel Core I3 - 8GB",
+          "image": "http://localhost:8001/images/198122843657-001-750Wx750H.webp",
+          "price": 3299000,
+          "discount": 54,
+          "quantity": 6,
+          "brand": "HP",
+          "model": "15-fd0026la",
+          "stock": 10
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "20b046797f41-0def-fbb4-ab40-01989493",
+      "products": [
+        {
+          "id": "AA-AA-AA-AA",
+          "price": 3299000,
+          "discount": 54,
+          "quantity": 6,
+          "brand": "HP",
+          "model": "15-fd0026la"
+        }
+      ],
+      "total": 99999,
+      "pay_date": "02/08/2025:13:12:00"
+    }
+  ],
   "users": [
     {
       "id": "01989493-0def-7f41-ab40-20b04679fbb4",
       "first_name": "José",
       "middle_name": "David",
       "last_name": "Hernández Hortúa",
-      "email_address": "josedhernandez@proton.me",
+      "email_address": "test@test.test",
       "password": "123",
       "physical_address": "calle 12 # 67- 56c",
       "role": 1
@@ -55,7 +90,7 @@
         "cores": 6,
         "speed": "(12T, 3.5 / 4.9GHz, 6MB L2 / 16MB L3)"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": ["Apple", "11 Home"],
       "ram_memory": 24,
       "disk_capacity": 512,
       "display": {
@@ -446,10 +481,7 @@
         "cores": 4,
         "speed": "2.8GHz (6MB Cache, up to 4.3GHz, 4 cores, 8 Threads)"
       },
-      "operating_system": [
-        "Windows",
-        "Windows 11 Home - ASUS recomienda Windows 11 Pro for business"
-      ],
+      "operating_system": ["Windows", "Windows 11 Pro"],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
