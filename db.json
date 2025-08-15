@@ -1,4 +1,22 @@
 {
+  "reviews": [
+    {
+      "id": "01989493-0def-7f41-ab40-20b04679fbb43",
+      "product_id": "AA-AA-AA-AA",
+      "user_name": "José Hernández",
+      "qualification": 4.5,
+      "comment": "Es un buen equipo pero se sobre calienta mucho.",
+      "date": "09-08-2025T5:13:12:00Z"
+    },
+    {
+      "id": "d2b5a051-7b6a-4e24-a6cd-a6a0e2dcd552",
+      "product_id": "AA-AA-AA-A1",
+      "user_name": "José Hernández",
+      "qualification": 5,
+      "comment": "Es un equipo muy bueno",
+      "date": "2025-08-15T05:39:55.696Z"
+    }
+  ],
   "carts": [
     {
       "id": "01989493-0def-7f41-ab40-20b04679fbb4",
@@ -30,8 +48,10 @@
           "model": "15-fd0026la"
         }
       ],
+      "status": "En proceso",
       "total": 99999,
-      "pay_date": "02/08/2025:13:12:00"
+      "pay_date": "02-08-2025T5:13:12:00Z",
+      "delivery_date": "09-08-2025T5:13:12:00Z"
     }
   ],
   "users": [
@@ -64,13 +84,16 @@
         "cores": 8,
         "speed": "Hasta 3,8 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3, 8 núcleos y 8 subprocesos."
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -90,13 +113,16 @@
         "cores": 6,
         "speed": "(12T, 3.5 / 4.9GHz, 6MB L2 / 16MB L3)"
       },
-      "operating_system": ["Apple", "11 Home"],
+      "operating_system": [
+        "Apple",
+        "11 Home"
+      ],
       "ram_memory": 24,
       "disk_capacity": 512,
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -116,13 +142,16 @@
         "cores": 14,
         "speed": "Hasta 4.5 GHz con Intel® Turbo Boost Technology, 18 MB L3 caché, 14 núcleos, 18 hilos"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -142,13 +171,16 @@
         "cores": 8,
         "speed": "Velocidad de ráfaga máxima de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos y 16 subprocesos"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -168,7 +200,10 @@
         "cores": 8,
         "speed": "2.2 GHz (12MB Cache, up to 4.8 GHz, 8 cores, 12 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -195,13 +230,16 @@
         "cores": 8,
         "speed": "4.5GHz"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -221,13 +259,16 @@
         "cores": 8,
         "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -247,13 +288,16 @@
         "cores": 14,
         "speed": "Hasta 4,5 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 14 núcleos, 18 subprocesos."
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -273,13 +317,16 @@
         "cores": 8,
         "speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -299,13 +346,16 @@
         "cores": 8,
         "speed": "(8 núcleos/16 hilos, 2,0/4,5 GHz, 4 MB L2/16 MB L3)"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -325,13 +375,16 @@
         "cores": 10,
         "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -351,7 +404,10 @@
         "cores": 8,
         "speed": "1.8 GHz (6MB Cache, up to 3.8 GHz, 8 cores, 8 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
@@ -377,13 +433,16 @@
         "cores": 8,
         "speed": "2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 1000,
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -403,13 +462,16 @@
         "cores": 8,
         "speed": "(4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB"
       },
-      "operating_system": ["Windows", "11 Home español"],
+      "operating_system": [
+        "Windows",
+        "11 Home español"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -429,13 +491,16 @@
         "cores": 10,
         "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos. "
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -455,13 +520,16 @@
         "cores": 10,
         "speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3, 10 núcleos y 12 subprocesos."
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -481,7 +549,10 @@
         "cores": 4,
         "speed": "2.8GHz (6MB Cache, up to 4.3GHz, 4 cores, 8 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Pro"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Pro"
+      ],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
@@ -507,13 +578,16 @@
         "cores": 8,
         "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -533,7 +607,10 @@
         "cores": 8,
         "speed": "Desde 2.1 GHz Hasta 4.6 GHz con tecnología Turbo Boost"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -560,13 +637,16 @@
         "cores": 4,
         "speed": "8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3"
       },
-      "operating_system": ["Windows", "11 home"],
+      "operating_system": [
+        "Windows",
+        "11 home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -586,13 +666,16 @@
         "cores": 4,
         "speed": "Hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos."
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -612,7 +695,10 @@
         "cores": 8,
         "speed": "(8C/16T, 3,1/4,5 GHz, 4 MB L2/16 MB L3)"
       },
-      "operating_system": ["Windows", "11 home"],
+      "operating_system": [
+        "Windows",
+        "11 home"
+      ],
       "ram_memory": 24,
       "disk_capacity": 512,
       "display": {
@@ -639,13 +725,16 @@
         "cores": 8,
         "speed": "Processor 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 16,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -665,13 +754,16 @@
         "cores": 4,
         "speed": "Velocidad máxima de hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -691,7 +783,10 @@
         "cores": 8,
         "speed": "(4P + 4E) / 12T, P-core hasta 4,4 GHz, E-core hasta 3,1 GHz, 12 MB"
       },
-      "operating_system": ["Windows", "11 home"],
+      "operating_system": [
+        "Windows",
+        "11 home"
+      ],
       "ram_memory": 24,
       "disk_capacity": 512,
       "display": {
@@ -747,13 +842,16 @@
         "cores": 8,
         "speed": "Hasta 4,6 GHz con tecnología Intel Turbo Boost,12 MB de caché L3, 8 núcleos y 12 subprocesos."
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -773,7 +871,10 @@
         "cores": 8,
         "speed": "Hasta 4,6 GHz con tecnología Intel® Turbo Boost, 27 12 MB de caché L3, 8 núcleos y 12 subprocesos"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -800,7 +901,10 @@
         "cores": 12,
         "speed": "4.70 Ghz"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -827,13 +931,16 @@
         "cores": 8,
         "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 24,
       "disk_capacity": 1000,
       "display": {
         "size": 15.3,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -853,13 +960,16 @@
         "cores": 8,
         "speed": "(4P + 4E) / 12T, P-Core 2.1 / 4.6GHz, E-Core 1.5 / 3.4GHz, 12MB"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 32,
       "disk_capacity": 1000,
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -879,13 +989,16 @@
         "cores": 4,
         "speed": "2.8 GHz"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -905,7 +1018,10 @@
         "cores": 8,
         "speed": "Hasta 4,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché, 8 núcleos y 12 subprocesos."
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -932,13 +1048,16 @@
         "cores": 8,
         "speed": "3.49 GHz"
       },
-      "operating_system": ["MacOs", "MacOs Sequoia"],
+      "operating_system": [
+        "MacOs",
+        "MacOs Sequoia"
+      ],
       "ram_memory": 16,
       "disk_capacity": 256,
       "display": {
         "size": 13.6,
         "resolution": "Retina",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -958,13 +1077,16 @@
         "cores": 8,
         "speed": "Desde 1.9 Ghz Hasta 3.9GHz con tecnología Turbo Boost"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -984,13 +1106,16 @@
         "cores": 10,
         "speed": "4.3 GHz"
       },
-      "operating_system": ["MacOS", "MacOS Sequoia"],
+      "operating_system": [
+        "MacOS",
+        "MacOS Sequoia"
+      ],
       "ram_memory": 16,
       "disk_capacity": 256,
       "display": {
         "size": 13,
         "resolution": "Retina",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1010,13 +1135,16 @@
         "cores": 4,
         "speed": "8T, 2,8/4,3 GHz, 2 MB L2/4 MB L3"
       },
-      "operating_system": ["Windows", "11 Home, español"],
+      "operating_system": [
+        "Windows",
+        "11 Home, español"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 15.6,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1036,7 +1164,10 @@
         "cores": 6,
         "speed": "Hasta 5,0 GHz , 16 MB de caché L3, 06 núcleos y 12 subprocesos"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
@@ -1063,13 +1194,16 @@
         "cores": 14,
         "speed": "(4P + 8E + 2LPE) / 18T, Max Turbo up to 4.5GHz, 18MB"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
         "size": 14,
         "resolution": "OLED",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1089,13 +1223,16 @@
         "cores": 8,
         "speed": "Hasta 4.6 GHz con tecnologia Turbo Boost"
       },
-      "operating_system": ["Windows", "11 Home"],
+      "operating_system": [
+        "Windows",
+        "11 Home"
+      ],
       "ram_memory": 8,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "WUXGA",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1115,13 +1252,16 @@
         "cores": 8,
         "speed": "3.49 GHz"
       },
-      "operating_system": ["MacOs", "MacOs Sequoia"],
+      "operating_system": [
+        "MacOs",
+        "MacOs Sequoia"
+      ],
       "ram_memory": null,
       "disk_capacity": 256,
       "display": {
         "size": 13.6,
         "resolution": "Retina",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1141,7 +1281,10 @@
         "cores": 8,
         "speed": "Processor 3.1GHz (20MB Caché, hasta 4.5 GHz, 8 Núcleos, 16 Hilos)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 16,
       "disk_capacity": 1000,
       "display": {
@@ -1168,13 +1311,16 @@
         "cores": 10,
         "speed": "4.3 GHz"
       },
-      "operating_system": ["MacOS ", "MacOS Sequoia"],
+      "operating_system": [
+        "MacOS ",
+        "MacOS Sequoia"
+      ],
       "ram_memory": 16,
       "disk_capacity": 256,
       "display": {
         "size": 13,
         "resolution": "Retina",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1194,13 +1340,16 @@
         "cores": 10,
         "speed": "4.60 GHz"
       },
-      "operating_system": ["Windows", "11 Pro"],
+      "operating_system": [
+        "Windows",
+        "11 Pro"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
         "size": 14,
         "resolution": "Full HD",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1220,7 +1369,10 @@
         "cores": 16,
         "speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Pro"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Pro"
+      ],
       "ram_memory": 32,
       "disk_capacity": 1000,
       "display": {
@@ -1246,7 +1398,10 @@
         "cores": 16,
         "speed": "2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Pro"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Pro"
+      ],
       "ram_memory": 32,
       "disk_capacity": 1000,
       "display": {
@@ -1273,7 +1428,10 @@
         "cores": 8,
         "speed": "4.60 GHz"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -1300,7 +1458,10 @@
         "cores": 10,
         "speed": "4.60 GHz"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -1326,7 +1487,10 @@
         "cores": 16,
         "speed": "4.8 Ghz"
       },
-      "operating_system": ["Windows", "Windows 11"],
+      "operating_system": [
+        "Windows",
+        "Windows 11"
+      ],
       "ram_memory": 16,
       "disk_capacity": 512,
       "display": {
@@ -1353,13 +1517,16 @@
         "cores": 12,
         "speed": "2.0 GHz (36MB Cache, up to 5.1GHz, 12 cores, 24 Threads), AMD Ryzen™ AI up to 81 TOPs"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 32,
       "disk_capacity": 1000,
       "display": {
         "size": 16,
         "resolution": "OLED",
-        "graphics": "Integrados"
+        "graphics": "Gráficos integrados"
       }
     },
     {
@@ -1379,7 +1546,10 @@
         "cores": 24,
         "speed": "2.7 GHz (36MB Cache, up to 5.4 GHz, 24 cores, 24 Threads)"
       },
-      "operating_system": ["Windows", "Windows 11 Home"],
+      "operating_system": [
+        "Windows",
+        "Windows 11 Home"
+      ],
       "ram_memory": 32,
       "disk_capacity": 1000,
       "display": {
