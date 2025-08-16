@@ -6,7 +6,7 @@
       "user_name": "José Hernández",
       "qualification": 4.5,
       "comment": "Es un buen equipo pero se sobre calienta mucho.",
-      "date": "09-08-2025T5:13:12:00Z"
+      "date": "2025-08-15T05:39:55.696Z"
     },
     {
       "id": "d2b5a051-7b6a-4e24-a6cd-a6a0e2dcd552",
@@ -15,33 +15,27 @@
       "qualification": 5,
       "comment": "Es un equipo muy bueno",
       "date": "2025-08-15T05:39:55.696Z"
+    },
+    {
+      "product_id": "AA-AA-AA-A2",
+      "user_name": "Diego Lemus",
+      "qualification": 5,
+      "comment": "Buen producto.",
+      "date": "2025-08-15T15:36:11.266Z",
+      "id": "OKjwYDD"
     }
   ],
-  "carts": [
+  "carts": [],
+  "orders": [
     {
-      "id": "01989493-0def-7f41-ab40-20b04679fbb4",
+      "id": "20b046797f41-0def-fbb4-ab40-01989634",
+      "user_id": "01989493-0def-7f41-ab40-20b04679fbb4",
       "products": [
         {
           "id": "AA-AA-AA-AA",
           "name": "HP Intel Core I3 - 8GB",
+          "price": 3299000,
           "image": "http://localhost:8001/images/198122843657-001-750Wx750H.webp",
-          "price": 3299000,
-          "discount": 54,
-          "quantity": 6,
-          "brand": "HP",
-          "model": "15-fd0026la",
-          "stock": 10
-        }
-      ]
-    }
-  ],
-  "orders": [
-    {
-      "id": "20b046797f41-0def-fbb4-ab40-01989493",
-      "products": [
-        {
-          "id": "AA-AA-AA-AA",
-          "price": 3299000,
           "discount": 54,
           "quantity": 6,
           "brand": "HP",
@@ -50,8 +44,98 @@
       ],
       "status": "En proceso",
       "total": 99999,
-      "pay_date": "02-08-2025T5:13:12:00Z",
-      "delivery_date": "09-08-2025T5:13:12:00Z"
+      "pay_date": "2025-08-15T05:39:55.696Z",
+      "delivery_date": "2025-08-20T05:39:55.696Z"
+    },
+    {
+      "user_id": "01989493-0def-7f41-ab40-20b04679fbb4",
+      "products": [
+        {
+          "id": "AA-AA-AA-A2",
+          "name": "HP Intel Core I5 - 16GB",
+          "price": 4999000,
+          "discount": 50,
+          "image": "http://localhost:8001/images/199251256417-003-750Wx750H.webp",
+          "brand": "HP",
+          "model": "15-fd1255la",
+          "quantity": 1
+        },
+        {
+          "id": "Intel-Core-I3---8GBX1504ZA-NJ1404W",
+          "name": "ASUS Vivobook Intel Core I3 - 8GB",
+          "price": 3329000,
+          "discount": 48,
+          "image": "http://localhost:8001/images/4711387599181-002-750Wx750H.webp",
+          "brand": "ASUS",
+          "model": "X1504ZA-NJ1404W",
+          "quantity": 2
+        },
+        {
+          "id": "AA-AA-AA-A4",
+          "name": "ASUS TUF Intel Core I5 - 16GB",
+          "price": 5899000,
+          "discount": 40,
+          "image": "http://localhost:8001/images/4711636030427-001-750Wx750H.webp",
+          "brand": "ASUS",
+          "model": "FX607VJ-RL165W",
+          "quantity": 1
+        }
+      ],
+      "status": "En proceso",
+      "total": 9501060,
+      "pay_date": "2025-08-16T04:22:59.420Z",
+      "delivery_date": "2025-08-21T04:22:59.420Z",
+      "id": "LEXGLhO"
+    },
+    {
+      "user_id": "01989493-0def-7f41-ab40-20b04679fbb4",
+      "products": [
+        {
+          "id": "AA-AA-AA-AA",
+          "name": "HP Intel Core I3 - 8GB",
+          "price": 3299000,
+          "discount": 54,
+          "image": "http://localhost:8001/images/198122843657-001-750Wx750H.webp",
+          "brand": "HP",
+          "model": "15-fd0026la",
+          "quantity": 1
+        },
+        {
+          "id": "AA-AA-AA-A8",
+          "name": "ASUS Vivobook Intel Core I5 - 16GB",
+          "price": 3799000,
+          "discount": 42,
+          "image": "http://localhost:8001/images/4711387799109-001-750Wx750H.webp",
+          "brand": "ASUS",
+          "model": "X1605VA-MB1193W",
+          "quantity": 1
+        }
+      ],
+      "status": "En proceso",
+      "total": 3720960,
+      "pay_date": "2025-08-16T05:12:40.459Z",
+      "delivery_date": "2025-08-21T05:12:40.459Z",
+      "id": "BRy6nTR"
+    },
+    {
+      "user_id": "01989493-0def-7f41-ab40-20b04679fbb4",
+      "products": [
+        {
+          "id": "AA-AA-AA-A1",
+          "name": "Lenovo AMD R5 - 24GB",
+          "price": 3999000,
+          "discount": 40,
+          "quantity": 1,
+          "brand": "Lenovo",
+          "model": "83KA001NLM",
+          "image": "http://localhost:8001/images/198155958762-001-750Wx750H.webp"
+        }
+      ],
+      "status": "En proceso",
+      "total": 2399400,
+      "pay_date": "2025-08-16T05:13:02.155Z",
+      "delivery_date": "2025-08-21T05:13:02.155Z",
+      "id": "0o1fxoT"
     }
   ],
   "users": [
@@ -61,9 +145,19 @@
       "middle_name": "David",
       "last_name": "Hernández Hortúa",
       "email_address": "test@test.test",
-      "password": "123",
+      "password": "Superclav4#",
       "physical_address": "calle 12 # 67- 56c",
       "role": 1
+    },
+    {
+      "first_name": "Lucas",
+      "middle_name": "Samuel",
+      "last_name": "Rojas",
+      "email_address": "correo@electronico.com",
+      "password": "Contrasea34^5G",
+      "physical_address": "Calle roja 54 # 89c - 65, torre 4, apartamento 203",
+      "role": 0,
+      "id": "UxIdPpt"
     }
   ],
   "products": [
