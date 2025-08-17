@@ -3,7 +3,7 @@
     {
       "id": "01989493-0def-7f41-ab40-20b04679fbb43",
       "product_id": "AA-AA-AA-AA",
-      "user_name": "José Hernández",
+      "name": "José Hernández",
       "qualification": 4.5,
       "comment": "Es un buen equipo pero se sobre calienta mucho.",
       "date": "2025-08-15T05:39:55.696Z"
@@ -11,14 +11,14 @@
     {
       "id": "d2b5a051-7b6a-4e24-a6cd-a6a0e2dcd552",
       "product_id": "AA-AA-AA-A1",
-      "user_name": "José Hernández",
+      "name": "José Hernández",
       "qualification": 5,
       "comment": "Es un equipo muy bueno",
       "date": "2025-08-15T05:39:55.696Z"
     },
     {
       "product_id": "AA-AA-AA-A2",
-      "user_name": "Diego Lemus",
+      "name": "Diego Lemus",
       "qualification": 5,
       "comment": "Buen producto.",
       "date": "2025-08-15T15:36:11.266Z",
@@ -140,19 +140,16 @@
   ],
   "users": [
     {
-      "id": "01989493-0def-7f41-ab40-20b04679fbb4",
-      "first_name": "José",
-      "middle_name": "David",
-      "last_name": "Hernández Hortúa",
-      "email_address": "test@test.test",
-      "password": "Superclav4#",
-      "physical_address": "calle 12 # 67- 56c",
-      "role": 1
+      "user": {
+        "id": "01989493-0def-7f41-ab40-20b04679fbb4",
+        "name": "José David Hernández Hortúa",
+        "email_address": "test@test.test",
+        "physical_address": "calle 12 # 67- 56"
+      },
+      "id": "01989493-0def-7f41-ab40-20b04679fbb4"
     },
     {
-      "first_name": "Lucas",
-      "middle_name": "Samuel",
-      "last_name": "Rojas",
+      "name": "Lucas Rojas",
       "email_address": "correo@electronico.com",
       "password": "Contrasea34^5G",
       "physical_address": "Calle roja 54 # 89c - 65, torre 4, apartamento 203",
